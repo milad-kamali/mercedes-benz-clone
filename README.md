@@ -2,6 +2,8 @@
 
 ## Build Setup
 
+# Node Version 16.13.2
+
 ```bash
 # install dependencies
 $ npm install
